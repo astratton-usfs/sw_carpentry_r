@@ -87,6 +87,7 @@ str(melanie)
 #                 c("AA", "BA", "MS", "PhD"),
 #                 list("Cuban"), c("life", "awesome"))
 
+Gonna make a change here...
 
 
 
